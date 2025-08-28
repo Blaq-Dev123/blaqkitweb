@@ -89,7 +89,7 @@ body {
 
 /* HERO */
 .hero {
-  background: url('../images/hero-bg.jpg') center/cover no-repeat;
+  background: url('hero-bg.jpg') center/cover no-repeat;
   padding: 80px 0;
   text-align: center;
   color: black;
